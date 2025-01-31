@@ -2,36 +2,6 @@
 
 Welcome to the official repository for HackIndia's logos and assets. Here, you will find all the official branding materials for HackIndia, including logos, icons, and other graphical assets.
 
-## Contents
-
-- [Logos](#logos)
-  - [Primary Logo](#primary-logo)
-  - [Secondary Logo](#secondary-logo)
-- [Icons](#icons)
-- [Usage Guidelines](#usage-guidelines)
-- [License](#license)
-- [Contributing](#contributing)
-
-## Logos
-
-### Primary Logo
-
-![Primary Logo](path/to/primary-logo.png)
-
-The primary logo of HackIndia. Suitable for most branding uses.
-
-### Secondary Logo
-
-![Secondary Logo](path/to/secondary-logo.png)
-
-The secondary logo of HackIndia. Use this version where the primary logo is not suitable.
-
-## Icons
-
-![Icon](path/to/icon.png)
-
-Various icons related to HackIndia for use in applications and websites.
-
 ## Usage Guidelines
 
 To maintain the integrity of the HackIndia brand, please follow these guidelines when using our logos and assets:
